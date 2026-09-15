@@ -1,0 +1,23 @@
+{
+  "chalupas": { "sum": 0, "count": 0 },
+  "tamal-verde": { "sum": 0, "count": 0 },
+  "tamal-de-rajas": { "sum": 0, "count": 0 },
+  "tamal-de-dulce": { "sum": 0, "count": 0 },
+  "taco-de-suadero": { "sum": 0, "count": 0 },
+  "taco-de-tripa": { "sum": 0, "count": 0 },
+  "taco-campechano": { "sum": 0, "count": 0 },
+  "tacos-de-canasta": { "sum": 0, "count": 0 },
+  "tacos-de-lengua": { "sum": 0, "count": 0 },
+  "pambazos": { "sum": 0, "count": 0 },
+  "tostada-de-tinga": { "sum": 0, "count": 0 },
+  "tostada-de-crema-con-queso": { "sum": 0, "count": 0 },
+  "tostadas-de-picadillo": { "sum": 0, "count": 0 },
+  "tacos-de-cochinita-pibil": { "sum": 0, "count": 0 },
+  "tacos-de-birria": { "sum": 0, "count": 0 },
+  "pozole": { "sum": 0, "count": 0 },
+  "flautas": { "sum": 0, "count": 0 },
+  "enchiladas-rojas": { "sum": 0, "count": 0 },
+  "enchiladas-verdes": { "sum": 0, "count": 0 },
+  "quesadillas": { "sum": 0, "count": 0 },
+  "gorditas": { "sum": 0, "count": 0 }
+}
